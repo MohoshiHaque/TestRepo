@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-28T18:28:33 BDT" name="Default suite" finished-at="2023-07-28T18:28:37 BDT" duration-ms="3689">
+    <groups>
+    </groups>
+    <test started-at="2023-07-28T18:28:33 BDT" name="Default test" finished-at="2023-07-28T18:28:37 BDT" duration-ms="3689">
+      <class name="batch8.TestNGTest">
+        <test-method signature="Test1()[pri:1, instance:batch8.TestNGTest@f0c8a99]" started-at="2023-07-28T18:28:33 BDT" name="Test1" finished-at="2023-07-28T18:28:37 BDT" duration-ms="3641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method signature="BeforeTest1()[pri:2, instance:batch8.TestNGTest@f0c8a99]" started-at="2023-07-28T18:28:37 BDT" name="BeforeTest1" finished-at="2023-07-28T18:28:37 BDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest1 -->
+      </class> <!-- batch8.TestNGTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
